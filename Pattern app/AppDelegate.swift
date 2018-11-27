@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Pattern app
-//
-//  Created by Noah Martineau Raymundo on 2018-11-15.
-//  Copyright © 2018 Phidget. All rights reserved.
-//
 
 import UIKit
 
